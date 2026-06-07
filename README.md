@@ -1,2 +1,2 @@
-# Repository-name-BURAKMENU-UPDATE
+#BURAKMENU-UPDATE
 BURAKMENU Update Server
