@@ -1,3 +1,5 @@
-version=1.0.2
+version=1.0.4
 url=https://raw.githubusercontent.com/bcigdem33/BC-CIVILTOOLS-PRO-UPDATE/main/BCCivilToolsPro.dll
-notlar= Menü iyileştirildi. Hata iyileştirmeleri yapıldı.İndirme problemi yaşamanız durumunda Wp İletişim : 0538 610 8518 (Burak ÇİĞDEM)
+sha256=83796696DFA5F7A72BC4F5A2F336AFA5BF222F61368DC28CDEDEDB532A9E3D63
+notes=Menü iyileştirildi. Hata uygulamaları yapıldı.
+signature=VIZy_6Wfzfa7u1ygy705wwLVHfn9afnBlfbW_hIOfKYrPaPula6le9XK8WRxgyE37JbmLNhdcRzkndbgmsYIFFwx-axkT_7_znxXIeoNA5CObKZtIh6v_bU2cciztThRmLI8m5XwR5awxz-dsFcIRZHuwxxt0uDZHKBt7VLPVusS2IfmDfGTwcz4brIdx2AlIhoHBB08blWpeK3GtMbYx_sZYQ-mXZDZZY6LfLpntykbd1tMfWBSRhnOHSlZlBdY39PdWdY6Ip8bUnecNG-Lo_Z60hp6y0PY1RVRwns0W3024nvWjwqfUkePCrcUUasugZbL7GTVmfd30FB-AxwQ
